@@ -21,6 +21,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://ims-npit.onrender.com",
+      "https://ims-orcin.vercel.app",
 
       "http:192.168.176.1:3000",
       "https://lysa700.vercel.app",
